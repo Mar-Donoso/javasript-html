@@ -1,0 +1,18 @@
+#container img{
+    display: inline-block;
+}
+
+#container > img{
+    cursor: pointer;
+}
+
+#imgMagia{
+    /*position: relative;
+    left: 610px;
+    top: -400px;*/
+}
+#bola{
+    position: relative;
+    left: 610px;
+    top: -400px;
+}

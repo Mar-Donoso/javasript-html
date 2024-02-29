@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.box{
+    width: 20%;   
+    height: 100px;
+    margin: 5px;
+    background-color: blue;
+    cursor: pointer;
+}
